@@ -1,0 +1,25 @@
+// Zed settings
+//
+// For information on how to configure Zed, see the Zed
+// documentation: https://zed.dev/docs/configuring-zed
+//
+// To see all of Zed's default settings without changing your
+// custom settings, run `zed: open default settings` from the
+// command palette (cmd-shift-p / ctrl-shift-p)
+{
+  "rounded_selection": false,
+  "ui_font_family": "JetBrainsMono Nerd Font",
+  "buffer_font_family": "JetBrainsMono Nerd Font",
+  "disable_ai": true,
+  "git": {
+    "enable_status": false
+  },
+  "proxy": "",
+  "cli_default_open_behavior": "existing_window",
+  "edit_predictions": {
+    "provider": "ollama"
+  },
+  "ui_font_size": 15.0,
+  "buffer_font_size": 14.0,
+  "theme": "Noctalia Dark Transparent",
+}
